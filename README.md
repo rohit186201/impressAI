@@ -73,4 +73,4 @@
 - [ ] Add Confirmation for Deletion - implement a confirmation dialog that asks for user approval before deleting a user entry.
 
 ### Final Output
-![image](https://github.com/impressai/frontend_task/assets/28563570/67fd80fc-c022-41b3-8f01-de11de046379)
+![image](https://github.com/rohit186201/impressAI/blob/main/public/impressai.jpg)
