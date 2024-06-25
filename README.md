@@ -71,3 +71,6 @@
 ### Bonus level
 - [ ] Maintain separate reducer - create and manage a separate reducer for storing the details of the currently edited user.
 - [ ] Add Confirmation for Deletion - implement a confirmation dialog that asks for user approval before deleting a user entry.
+
+### Final Output
+![image](https://github.com/impressai/frontend_task/assets/28563570/67fd80fc-c022-41b3-8f01-de11de046379)
